@@ -50,7 +50,6 @@ body {
 
 .box {
 	margin: 20px 20px 20px 20px;
-	height: 430px;
 	padding: 40px 40px 40px 40px;
 }
 
@@ -68,6 +67,26 @@ body {
 	background: url('http://grhardnesstester.com/wp-content/uploads/2014/10/iStock_000017124788_Large.jpg')no-repeat;
 }
 
+.modal-dialog {
+	color:black;
+}
 
+.modal-content {
+	color:black;
+}
 
+.modal-header {
+	color:black;
+}
 
+.modal-title {
+	color:black;
+}
+
+.modal-body {
+	color:black;
+}
+
+.modal-footer {
+	color:black;
+}
