@@ -67,26 +67,15 @@ body {
 	background: url('http://grhardnesstester.com/wp-content/uploads/2014/10/iStock_000017124788_Large.jpg')no-repeat;
 }
 
-.modal-dialog {
-	color:black;
-}
-
 .modal-content {
 	color:black;
 }
 
-.modal-header {
-	color:black;
+.btnTransparent {
+	background: none;
+	border: none;
 }
 
-.modal-title {
-	color:black;
-}
-
-.modal-body {
-	color:black;
-}
-
-.modal-footer {
-	color:black;
+.btnWhite {
+	background: white;
 }
