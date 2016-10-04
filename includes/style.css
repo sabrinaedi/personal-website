@@ -87,3 +87,7 @@ body {
 .largeText {
 	font-size: 35px;
 }
+
+.italicText {
+	font-style: italic;
+}

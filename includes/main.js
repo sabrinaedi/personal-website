@@ -9,3 +9,5 @@ function runslide() {
         })
     })
 }
+
+console.log("Hello, fellow developer!")
