@@ -1,16 +1,47 @@
 h1 {
-	font-family: acumin-pro-semi-condensed, sans-serif;
-}
-
-p { 
-	font-family: acumin-pro-semi-condensed, sans-serif;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 24px;
 	font-style: normal;
-	font-weight: 100;	color: white; 
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h3 {
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p {
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+blockquote {
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
 }
 
 body {
 	background-color: black;
-	font-family: acumin-pro-semi-condensed, sans-serif;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 	font-style: normal;
 	font-weight: 100;
 	color: white;
@@ -18,15 +49,21 @@ body {
 
 .box {
 	margin: 20px 20px 20px 20px;
-	height: 300px;
+	height: 430px;
+	padding: 50px 50px 50px 50px;
 }
 
 .rounded {
   border-radius: 10px;
-  background: grey; 
 }
 
 .image {
-	max-height: 400px;
+	max-height: 300px;
 	overflow:hidden;
+	
 }
+
+.backgroundImg {
+	background: url('http://grhardnesstester.com/wp-content/uploads/2014/10/iStock_000017124788_Large.jpg')no-repeat;
+}
+
